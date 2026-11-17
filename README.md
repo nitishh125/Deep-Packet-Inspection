@@ -1,4 +1,4 @@
-# Packet Analyzer & Deep Packet Inspection (DPI) Engine
+# Deep Packet Inspection (DPI) Engine & Packet Analyzer
 
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?logo=windows)](https://microsoft.com)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-brightgreen?logo=python)](https://python.org)
